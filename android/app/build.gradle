@@ -113,9 +113,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace 'com.karenyov.navigationapp'
+    namespace 'com.karenyov.menuapp'
     defaultConfig {
-        applicationId 'com.karenyov.navigationapp'
+        applicationId 'com.karenyov.menuapp'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

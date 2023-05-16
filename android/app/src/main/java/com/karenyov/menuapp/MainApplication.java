@@ -1,4 +1,4 @@
-package com.karenyov.navigationapp;
+package com.karenyov.menuapp;
 
 import android.app.Application;
 import android.content.res.Configuration;

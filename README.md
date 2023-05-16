@@ -21,6 +21,6 @@ npx expo start
 
 # Screenshots
 <p align="center">
-  <img src="https://github.com/karenyov//tabs-drawer/blob/main/app.gif" width="400">
+  <img src="https://github.com/karenyov/stack-top-navigation/blob/main/app.gif" width="400">
 </p>
 

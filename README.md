@@ -1,4 +1,4 @@
-# tabs-drawer
+# React Navigation - Stack and Material Top Tabs
 React Navigation - Tabs and Drawer
 
 ## Requisitos

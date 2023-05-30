@@ -1,4 +1,4 @@
-import { StatusBar } from "react-native";
+import { StatusBar, View } from "react-native";
 import { SafeAreaProvider } from "react-native-safe-area-context";
 
 import { Header } from "./src/components/Header";
@@ -10,7 +10,7 @@ export default function App() {
       <SafeAreaProvider>
         <StatusBar
           barStyle="light-content"
-          backgroundColor="transparent"
+          backgroundColor="#0284c7"
           translucent
         />
 

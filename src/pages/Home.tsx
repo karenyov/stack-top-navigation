@@ -7,9 +7,7 @@ export function Home() {
 
   return (
     <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
-      <TouchableOpacity onPress={() => navigate("list")}>
-        <Text>List</Text>
-      </TouchableOpacity>
+      <Text>Home</Text>
     </View>
   );
 }
